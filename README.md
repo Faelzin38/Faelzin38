@@ -3,6 +3,8 @@
 
 ![Trabalhos](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Linguagens](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
+![Plataforma](https://img.icons8.com/?size=100&id=30998&format=png&color=000000)
+
 
 
 ![Fael GitHub stats](https://github-readme-stats.vercel.app/api?username=Faelzin38&show_icons=true&theme=dark)
