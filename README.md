@@ -26,5 +26,5 @@ Estou estudando para me profissionalizar em linguagens de programação e marca�
 - rafagemplays159@gmail.com
 
 ## Instagram:
- <a href="https://www.instagram.com/faelzinn_38/profilecard/?igsh=MTZyamVuM3d5YXdwNQ==" target="_blank">@Faelzinn_38</a>
+ <a href="https://www.instagram.com/faelzinn_38/profilecard" target="_blank">@Faelzinn_38</a>
 
