@@ -20,7 +20,9 @@
 <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div><br/>
 
-Estou estudando para me profissionalizar em linguagens de programação e marcação!<br/>
+
+"Tenho plena convicção de que a segurança cibernética é o caminho profissional que desejo seguir. Minha determinação, capacidade de adaptação e foco em resolver problemas me permitem contribuir de forma significativa para as equipes em que atuar. Encaro esta área como uma oportunidade para aplicar minhas habilidades técnicas, adquirir novos conhecimentos e colaborar ativamente para o sucesso da organização. Com uma abordagem proativa e colaborativa, estou comprometido em enfrentar desafios com excelência e evoluir continuamente junto à empresa."
+<br/>
 
 ## E-mail para contato:
 - rafagemplays159@gmail.com
