@@ -25,7 +25,7 @@
 <br/>
 
 ## E-mail para contato:
-- rafagemplays159@gmail.com
+- rafaelsoares38pro@gmail.com
 
 ## Instagram:
  <a href="https://www.instagram.com/faelzinn_38/profilecard" target="_blank">@Faelzinn_38</a>
