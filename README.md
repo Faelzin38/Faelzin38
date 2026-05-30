@@ -2,7 +2,6 @@
 ### Olá eu sou o Rafael 👋👨‍💻
 
 ![Trabalhos](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Linguagens](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
 ![Plataforma](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
 
