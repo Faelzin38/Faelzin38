@@ -25,5 +25,5 @@
 - rafaelsoares38pro@gmail.com
 
 ## Instagram:
- <a href="https://www.instagram.com/faelzinn_38/profilecard" target="_blank">@Faelzinn_38</a>
+ <a href="https://www.instagram.com/faelzin_38/" target="_blank">@Faelzinn_38</a>
 
